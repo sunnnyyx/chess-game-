@@ -6,7 +6,7 @@
 
 ## 📸 Demo
 
-![Game Screenshot](screenshot/demo.png)
+![Game Screenshot](screenshots/demo.png)
 
 ---
 
